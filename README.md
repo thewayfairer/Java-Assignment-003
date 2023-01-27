@@ -15,12 +15,10 @@ This is a slight over-simplification because you would also have to include a **
 
 
 1. Watch the below linked video, and follow along on how we build a **Java Archive** artifact (**jar**) from a GitHub project.
-    * <iframe width="560px" height="320px" allowfullscreen="true" allow="autoplay *" title="Build Jar from GitHub" src="https://redwoods.us-west-2.instructuremedia.com/embed/517c63e3-9624-4880-a46f-7eea3efe338a" frameborder="0"></iframe>
     * [Jar file build from GitHub Project](https://redwoods.us-west-2.instructuremedia.com/embed/517c63e3-9624-4880-a46f-7eea3efe338a)
 1. If you didn't already, attempt to build the artifact/jar file while watching the video, try to build **the jar file** yourself now!
     * [Metadata Extractor Code on GitHub](https://github.com/drewnoakes/metadata-extractor)
 1. Watch the below linked video, and follow along to import an external **jar** file into your project!
-    * <iframe width="560px" height="320px" allowfullscreen="true" allow="autoplay *" title="Import a Jar" src="https://redwoods.us-west-2.instructuremedia.com/embed/92f5cfd8-59f3-48b8-bbfe-a16c664625ac" frameborder="0"></iframe>
     * [Import External Jar into your Project](https://redwoods.us-west-2.instructuremedia.com/embed/92f5cfd8-59f3-48b8-bbfe-a16c664625ac)
 1. If your artifact build/creation step was successful, see if you can import your build of the metadata jar file into Java-Assignment-003 after you start PART 2 below!
 
