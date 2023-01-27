@@ -15,16 +15,19 @@ This is a slight over-simplification because you would also have to include a **
 
 
 1. Watch the below linked video, and follow along on how we build a **Java Archive** artifact (**jar**) from a GitHub project.
-[Jar file build from GitHub Project](https://pdx.nv.instructuremedia.com/fetch/QkFoYkIxc0hhUVRKb0U0RGFRUmRkUVFDYkNzSG9QNFVZdz09LS1hYTBhODRlOWU5NTdkMzljZDU4ZThiM2Y1N2RmNDZhMmI4NGUxMmM0.mp4)
-1. If you didn't already, attempt to build the artifact, **the jar file** yourself!
+<iframe width="560px" height="320px" allowfullscreen="true" allow="autoplay *" title="Build Jar from GitHub" src="https://redwoods.us-west-2.instructuremedia.com/embed/517c63e3-9624-4880-a46f-7eea3efe338a" frameborder="0"></iframe>
+[Jar file build from GitHub Project](https://redwoods.us-west-2.instructuremedia.com/embed/517c63e3-9624-4880-a46f-7eea3efe338a)
+1. If you didn't already, attempt to build the artifact/jar file while watching the video, try to build **the jar file** yourself now!
 [Metadata Extractor Code on GitHub](https://github.com/drewnoakes/metadata-extractor)
 1. Watch the below linked video, and follow along to import an external **jar** file into your project!
-[Import External Jar into your Project](https://pdx.nv.instructuremedia.com/fetch/QkFoYkIxc0hhUVM0b1U0RGFRVGJkUVFDYkNzSEJmOFVZdz09LS0yYWY5NmMwYzM2MDA0ZGY5YTAzNTQ0NjM0ZTNmYWI2NTk4ZGMyYjRk.mp4)
-1. If your artifact creation step was successful, see if you can import your build of the metadata jar file into Java-Assignment-003 after you start PART 2 below!
+<iframe width="560px" height="320px" allowfullscreen="true" allow="autoplay *" title="Import a Jar" src="https://redwoods.us-west-2.instructuremedia.com/embed/92f5cfd8-59f3-48b8-bbfe-a16c664625ac" frameborder="0"></iframe>
+[Import External Jar into your Project](https://redwoods.us-west-2.instructuremedia.com/embed/92f5cfd8-59f3-48b8-bbfe-a16c664625ac)
+1. If your artifact build/creation step was successful, see if you can import your build of the metadata jar file into Java-Assignment-003 after you start PART 2 below!
 
 ## PART 2 - Implementation
 
 Just like you do every week now!!!
+
 * **Fork** my assignment repo
 * Using IntelliJ to **clone** your fork locally
 * Use IntelliJ to create a local **feature branch**
@@ -51,6 +54,7 @@ java.nio.file.Path;
 1. Last add image markdown below this line to load your map image (Hint: Example image Markdown is just a couple lines above this).
 
 ## PART 3 - Code Scanning and Interpretation
+
 * Look at the getHiddenSecrets method and identify the following parts:
     * What is the **access modifer** (e.g. public, private, protected)?
     * Is it a **Class method** or an **object Instance method**, how do you know?
@@ -62,7 +66,9 @@ java.nio.file.Path;
     * Do the **for** loops make sense, and if so, tell me what you think they do?
 
 ## PART 4 - Turn in
+
 ### Same as the last 2 Weeks!
+
 * When completed, use your IDE to **Commit** and **Push** your **feature branch** back to your GitHub Account's **fork** of Java-Assignment-003.
 * From your GitHub account's feature branch, issue a New **Pull request** from your **feature branch** to the instructor's fork
 * Save the *Pull Request URL* to submit to your Canvas assignment.
