@@ -1,3 +1,9 @@
+# Ignore the out directory
+out
+
+# Ignore Mac files
+.DS_Store
+
 # Compiled class file
 *.class
 
