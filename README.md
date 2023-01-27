@@ -27,18 +27,16 @@ This is a slight over-simplification because you would also have to include a **
 Just like you do every week now!!!
 
 * **Fork** my assignment repo
-* Using IntelliJ to **clone** your fork locally
+* Use IntelliJ to **clone** your fork locally
 * Use IntelliJ to create a local **feature branch**
 * Complete the following assignment:
 
 Your assignment is to use Built-In java classes to:
 
-1. Import the following java Built-In classes.
-```
-java.nio.file.Paths;
-java.util.Scanner;
-java.nio.file.Path;
-```
+1. Import the following java Built-In classes from the **java.nio** and **java.util** packages respectively.
+        java.nio.file.Paths;
+        java.util.Scanner;
+        java.nio.file.Path;
 1. Read a **jpg file path** from the user.
      * HINT 1: Create a **Scanner** object instance and use it to read a string.
      * HINT 2: Use **Paths** class to get a path from your input! Google java.nio.file.Paths or [Look HERE](https://www.geeksforgeeks.org/java-nio-file-paths-class-in-java/) for help using Paths.
