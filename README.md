@@ -34,12 +34,15 @@ Just like you do every week now!!!
 Your assignment is to use Built-In java classes to:
 
 1. Import the following java Built-In classes from the **java.nio** and **java.util** packages respectively.
-        java.nio.file.Paths;
-        java.util.Scanner;
-        java.nio.file.Path;
+    * ```
+      java.nio.file.Paths;
+      java.util.Scanner;
+      java.nio.file.Path;
+      ```
 1. Read a **jpg file path** from the user.
      * HINT 1: Create a **Scanner** object instance and use it to read a string.
-     * HINT 2: Use **Paths** class to get a path from your input! Google java.nio.file.Paths or [Look HERE](https://www.geeksforgeeks.org/java-nio-file-paths-class-in-java/) for help using Paths.
+     * HINT 2: Use **Paths** class to get a path from your input!
+         * Google java.nio.file.Paths for help OR [Look for examples HERE](https://www.geeksforgeeks.org/java-nio-file-paths-class-in-java/)
 1. From your path object call a **method** that converts the file path to a **File** type object (**Cause that's what the provided getHiddenSecret method declares as its parameters**).
 1. Pass the file object as an argument to the given **getHiddenSecrets** method.
 1. Run the program and type in the path for our sample image, and record the GPS coordinates in the output.
