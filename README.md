@@ -54,7 +54,7 @@ Your assignment is to use Built-In java classes to:
 
 ## PART 3 - Code Scanning and Interpretation
 
-* Look at the getHiddenSecrets method and identify the following parts:
+* Look at the getHiddenSecrets method and identify the following parts by editing this README.md and providing your answers:
     * What is the **access modifer** (e.g. public, private, protected)?
     * Is it a **Class method** or an **object Instance method**, how do you know?
     * What is its **return data-type**?
