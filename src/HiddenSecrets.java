@@ -1,5 +1,3 @@
-package src;
-
 import com.drew.imaging.ImageProcessingException;
 import com.drew.metadata.Metadata;
 import com.drew.metadata.Directory;
